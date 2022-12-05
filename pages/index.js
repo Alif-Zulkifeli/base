@@ -60,34 +60,29 @@ export default function Home() {
 </div>
         
 
-        <div className="text-center font-curve pt-10 text-gray-800  "  data-aos="fade-up" data-aos-duration="1000"  >
+        <div className="text-center font-curve pt-10 text-gray-800 text-xl px-4 "  data-aos="fade-up" data-aos-duration="1000"  >
         I know that I tell you this all the time,
-        </div>
-        <div className="text-center font-curve  text-gray-800  " data-aos="fade-up" data-aos-duration="1100"  >
+        <br/>
         but you are the most beautiful person
-        </div>     <div className="text-center font-curve  text-gray-800  " data-aos="fade-up" data-aos-duration="1200"  >
+        <br/>
         in the world to me. 💕
-        </div>     <div className="text-center font-curve  text-gray-800  " data-aos="fade-up" data-aos-duration="1300"  >
-
-        </div>     <div className="text-center font-curve  text-gray-800  " data-aos="fade-up" data-aos-duration="1400"  >
+        <br/>
+        <br/>
         You really are the greatest, most supportive and caring fiancé anyone could ask for, and I am very lucky to have you in my life.💕
-        </div>     <div className="text-center font-curve  text-gray-800  " data-aos="fade-up" data-aos-duration="1500"  >
-
-        </div><div className="text-center font-curve  text-gray-800  " data-aos="fade-up" data-aos-duration="1500"  >
+        <br/>
         You could’ve chosen anybody to share
-        </div><div className="text-center font-curve  text-gray-800  " data-aos="fade-up" data-aos-duration="1500"  >
+        <br/>
         your life with and I am so thankful that
-        </div><div className="text-center font-curve  text-gray-800  " data-aos="fade-up" data-aos-duration="1500"  >
+        <br/>
         you chose me! 🥰
-        </div><div className="text-center font-curve  text-gray-800  " data-aos="fade-up" data-aos-duration="1500"  >
-        
-        </div><div className="text-center font-curve  text-gray-800  " data-aos="fade-up" data-aos-duration="1500"  >
+        <br/>
+        <br/>
         I will do whatever I can to make sure
-        </div><div className="text-center font-curve  text-gray-800  " data-aos="fade-up" data-aos-duration="1500"  >
+        <br/>
         that you feel as loved as you possibly could  
-        </div><div className="text-center font-curve  text-gray-800  " data-aos="fade-up" data-aos-duration="1500"  >
+        <br/>
         my dear! You mean everything to me!❤️
-        </div><div className="text-center font-curve  text-gray-800  " data-aos="fade-up" data-aos-duration="1500"  >
+        <br/>
         I Love You ❤️
         </div>
 
@@ -108,10 +103,10 @@ export default function Home() {
         <ImageComponent src="/img/005.jpg" />
         </div>
 
-        <div className="text-center font-curve  text-gray-800 text-3xl pt-10 font-medium " data-aos="fade-up" data-aos-duration="1500"  >
+        <h1 className="text-center font-curve  text-gray-800 text-4xl pt-10 font-medium " data-aos="fade-up" data-aos-duration="1500"  >
          Together for,
-        </div>
-        <div class="text-center font-curve" data-aos="fade-up" data-aos-duration="1500" >
+        </h1>
+        <div class="text-center font-curve text-xl " data-aos="fade-up" data-aos-duration="1500" >
 							{timer.dDisplay} 
 							<span class="">{timer.hDisplay}</span> <br />
 							<span class="">
@@ -125,7 +120,7 @@ export default function Home() {
         <div className='grid grid-cols-2 gap-4 pb-10' >
         <div data-aos="fade-right" data-aos-duration="1000"   className=' grid place-items-center pt-3' >
         <ImageComponent src="/img/002.jpg" />
-        </div>  <div data-aos="fade-left" data-aos-duration="1000"   className=' grid place-items-center pt-10' >
+        </div>  <div data-aos="fade-left" data-aos-duration="1000"   className=' grid place-items-center pt-3' >
         <ImageComponent src="/img/006.jpg" />
         </div>  <div data-aos="fade-right" data-aos-duration="1000"   className=' grid place-items-center' >
         <ImageComponent src="/img/004.jpg" />
@@ -154,8 +149,56 @@ export default function Home() {
         </div>
         </div>
 
+
+        <div className="text-center font-curve pt-10 text-gray-800 text-xl px-4 "  data-aos="fade-up" data-aos-duration="1000"  >
+        I know that I tell you this all the time,
+        <br/>
+        but you are the most beautiful person
+        <br/>
+        in the world to me. 💕
+        <br/>
+        <br/>
+        You really are the greatest, most supportive and caring fiancé anyone could ask for, and I am very lucky to have you in my life.💕
+        <br/>
+    
+        </div>
      
 
+
+        <div className='grid grid-cols-2 gap-4 pb-10' >
+        <div data-aos="fade-right" data-aos-duration="1000"   className=' grid place-items-center pt-3' >
+        <ImageComponent src="/img/002.jpg" />
+        </div>  <div data-aos="fade-left" data-aos-duration="1000"   className=' grid place-items-center pt-3' >
+        <ImageComponent src="/img/006.jpg" />
+        </div>  <div data-aos="fade-right" data-aos-duration="1000"   className=' grid place-items-center' >
+        <ImageComponent src="/img/004.jpg" />
+        </div>  <div data-aos="fade-right" data-aos-duration="1000"   className=' grid place-items-center' >
+        <ImageComponent src="/img/005.jpg" />
+        </div>
+        </div>
+
+        <div data-aos="fade-right" data-aos-duration="1000"   className=' grid place-items-center pt-10' >
+        <ImageComponent src="/img/003.jpg" />
+        </div>
+
+    
+
+
+
+        <div className='grid grid-cols-2 gap-4 pb-10' >
+        <div data-aos="fade-right" data-aos-duration="1000"   className=' grid place-items-center pt-10' >
+        <ImageComponent src="/img/004.jpg" />
+        </div>  <div data-aos="fade-left" data-aos-duration="1000"   className=' grid place-items-center pt-10' >
+        <ImageComponent src="/img/005.jpg" />
+        </div>  <div data-aos="fade-right" data-aos-duration="1000"   className=' grid place-items-center' >
+        <ImageComponent src="/img/002.jpg" />
+        </div>  <div data-aos="fade-right" data-aos-duration="1000"   className=' grid place-items-center' >
+        <ImageComponent src="/img/006.jpg" />
+        </div>
+        </div>
+
+
+        
       </div>
     </div>
 
