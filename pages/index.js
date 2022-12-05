@@ -36,7 +36,7 @@ export default function Home() {
         <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet" />
       </Head>
 
-      <div className="bg-[url('/img/bg.jpg')] bg-cover bg-center min-h-screen bg-fixed " >
+      <div className=" bg-cover bg-center min-h-screen bg-fixed " >
         <div className='text-center font-curve text-6xl pt-16' >
 
           <p data-aos="fade-right" data-aos-duration="1000"   >Romeo</p>
